@@ -1,3 +1,2 @@
-# patterns_codelab
+# Patterns Codelab
 
-A new Flutter project.
